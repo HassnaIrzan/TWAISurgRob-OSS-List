@@ -26,6 +26,7 @@ This pages serves as a curated list of open-source software developped, maintain
 - [latentplot](https://github.com/luiscarlosgph/latentplot): Python package to plot the latent space of a set of images with different methods.
 - [oflibpytorch](https://github.com/RViMLab/oflibpytorch): Python package to manipulate, operate on, and combine optical flow fields, differentiable for the use in deep learning networks
 - [mis-monocular-depth](https://github.com/charliebudd/transferring-relative-monocular-depth-to-surgical-vision): State-of-the-art approach to monocular depth in surgical vision
+- [Ineraction_and_Ergonomics](https://github.com/SurgicalDataScienceKCL/Interaction_and_Ergonomics): Surgical interaction and surgeon ergonomics
 
 ## Data management
 - [synapi](https://github.com/luiscarlosgph/synapi): Python package to deal with Synapse datasets in a more convenient way.
